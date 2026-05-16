@@ -44,5 +44,3 @@ Using SQL, I solved multiple business problems that help in data-driven decision
   - Date & Time
 
 ---
-
-## 📂 Project Structure
